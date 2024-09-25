@@ -1,1 +1,1 @@
-## this is the pyhton app
+## this is the python app
